@@ -1,2 +1,2 @@
 # IdentityServer4
-![image](https://user-images.githubusercontent.com/87822546/204816103-ca005613-16c6-4f24-8d81-abe23f268ef1.png)
+![image](https://user-images.githubusercontent.com/87822546/204816353-34d65cee-9952-4a77-8a1e-121c582cb8a5.png)
