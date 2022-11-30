@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5f8EjF0vkZYbtv+TWLF88qu8n6FcTmIKY+6kHtzuL7qBbC+ZmyNstRHIh8mtQUtmEbvRIRSmfF+9sWETNwOLPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pache\\Desktop\\MyAPI\\src\\WebClient\\WebClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pache\\.nuget\\packages\\identitymodel\\5.0.0\\identitymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\pache\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pache\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\pache\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

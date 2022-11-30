@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5A236668-C18
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer", "src\IdentityServer\IdentityServer.csproj", "{F4764934-C474-4D86-BCCF-A817E8BAF0CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiIS4", "src\WebApiIS4\WebApiIS4.csproj", "{3C70BC04-EA35-416F-BD32-766E7A28DE00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiIS4", "src\WebApiIS4\WebApiIS4.csproj", "{3C70BC04-EA35-416F-BD32-766E7A28DE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "src\WebClient\WebClient.csproj", "{9C3C0A5F-3E00-40F6-95A4-7AF1F3B25584}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{3C70BC04-EA35-416F-BD32-766E7A28DE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C70BC04-EA35-416F-BD32-766E7A28DE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C70BC04-EA35-416F-BD32-766E7A28DE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3C0A5F-3E00-40F6-95A4-7AF1F3B25584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3C0A5F-3E00-40F6-95A4-7AF1F3B25584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3C0A5F-3E00-40F6-95A4-7AF1F3B25584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3C0A5F-3E00-40F6-95A4-7AF1F3B25584}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F4764934-C474-4D86-BCCF-A817E8BAF0CC} = {5A236668-C183-40B6-8F78-5AA2391E8B19}
 		{3C70BC04-EA35-416F-BD32-766E7A28DE00} = {5A236668-C183-40B6-8F78-5AA2391E8B19}
+		{9C3C0A5F-3E00-40F6-95A4-7AF1F3B25584} = {5A236668-C183-40B6-8F78-5AA2391E8B19}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B13789E8-810D-434A-9FCA-559E7D64BA2B}

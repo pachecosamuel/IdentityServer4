@@ -20,3 +20,15 @@ C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\obj\Debug\net5.0\refint\WebApiIS4.dll
 C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\obj\Debug\net5.0\WebApiIS4.pdb
 C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\obj\Debug\net5.0\WebApiIS4.genruntimeconfig.cache
 C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\obj\Debug\net5.0\ref\WebApiIS4.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pache\Desktop\MyAPI\src\WebApiIS4\obj\Debug\net5.0\WebApiIS4.csproj.CopyComplete
